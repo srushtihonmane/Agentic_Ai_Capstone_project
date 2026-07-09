@@ -1,0 +1,33 @@
+NimbusPay Careers — Job ID 4471
+
+Software Engineering Intern (Payments Platform)
+Location: Bengaluru, India (Hybrid — 3 days in office)
+Duration: 6 months | Stipend: INR 80,000/month
+Application deadline: 21 July 2026
+
+About NimbusPay
+NimbusPay processes UPI and card payments for 40,000+ online merchants. Our platform team builds the APIs, ledgers, and reconciliation systems that move money reliably at scale.
+
+What you will do
+- Design and ship backend services in Python (FastAPI) or Java (Spring Boot) for the merchant payments API.
+- Write and optimize SQL against PostgreSQL for transaction reporting workloads.
+- Build internal dashboards to monitor payment success rates and latency.
+- Participate in code reviews and write unit/integration tests for everything you ship.
+- Work with senior engineers on incident retrospectives and reliability improvements.
+
+Minimum qualifications
+- Pursuing a B.Tech/B.E. in CS or related field, graduating 2026 or 2027.
+- Strong grasp of data structures, algorithms, and REST API design.
+- Proficiency in Python or Java.
+- Hands-on experience with SQL and relational databases (PostgreSQL/MySQL).
+- Comfortable with Git-based workflows.
+
+Preferred qualifications
+- Experience with Docker and CI/CD pipelines.
+- Familiarity with AWS (EC2, S3, RDS) or any major cloud.
+- Exposure to Kubernetes.
+- A deployed side project or open-source contributions.
+- Prior internship experience at a product company.
+
+How to apply
+Apply through the NimbusPay careers portal with your resume and a short note on a system you have built. Shortlisted candidates complete one online assessment followed by two technical interviews.

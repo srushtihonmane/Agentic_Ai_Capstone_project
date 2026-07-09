@@ -1,0 +1,25 @@
+🚀 We're hiring! ML Engineer (New Grad) @ Arcadia AI 🚀
+
+Hey network! My team at Arcadia AI is growing and we're looking for a new-grad ML Engineer to join our applied AI group. We build retrieval-heavy assistants for enterprise support teams — think RAG pipelines answering over millions of internal docs.
+
+What you'd actually be doing 👇
+• Building and evaluating RAG pipelines (chunking, embeddings, rerankers — the whole mess)
+• Fine-tuning and prompt-engineering LLMs for domain-specific extraction tasks
+• Writing production Python — clean services, not notebooks (we use FastAPI + Docker)
+• Owning evals: building test sets, measuring hallucination rates, shipping regression dashboards
+• Working with vector databases (we use Chroma and pgvector) at ~50M embedding scale
+
+You'd be great if you have 🎯
+• Solid Python and a real grasp of ML fundamentals (a degree in CS/DS or equivalent projects)
+• Hands-on experience with PyTorch and Hugging Face transformers
+• Actually built something with LLMs — a RAG app, an agent, a fine-tune, anything real
+• SQL skills and comfort with data wrangling in pandas
+• Bonus points: LangChain/LangGraph, AWS or GCP, Kubernetes, a Kaggle profile 🏅
+
+📍 Remote-first (India), quarterly meetups in Pune
+💰 12–18 LPA + ESOPs for the right person
+🗓️ Applications close end of July 2026
+
+Interested? DM me your resume or email talent@arcadia-ai.example with "ML New Grad" in the subject. Referrals welcome — tag someone great! 🙌
+
+#hiring #machinelearning #newgrad #AIjobs #India

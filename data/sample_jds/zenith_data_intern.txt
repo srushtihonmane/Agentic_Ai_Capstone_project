@@ -1,0 +1,19 @@
+From: Priya Nair <priya.nair@zenithcommerce.example>
+To: you
+Subject: Data Analyst Internship @ Zenith Commerce — closing this week!
+
+Hi,
+
+I came across your profile through the campus placement cell and thought you could be a strong fit for the Data Analyst Intern role on my team at Zenith Commerce (we run one of India's largest B2B e-commerce marketplaces, ~2M monthly orders).
+
+Quick summary of the role:
+
+The intern will sit with the Growth Analytics team in our Mumbai office (Lower Parel, 5 days onsite) and work directly on seller-funnel analysis. Day to day this means pulling data with SQL from our Redshift warehouse, cleaning and analysing it in Python (pandas), building and maintaining Tableau dashboards for the leadership review, and helping the team design and read A/B tests on seller onboarding flows. Strong Excel skills still matter here for quick-turnaround asks. If you have used dbt or Airflow that is a nice plus, as is any exposure to statistics coursework (hypothesis testing, regression).
+
+It is a 6-month paid internship (INR 40,000/month) with a pre-placement offer possible for strong performers. We are moving fast on this one — please apply by Friday, 10 July 2026, by replying to this email with your resume, or through the referral link below if someone on the team referred you.
+
+Happy to answer any questions!
+
+Best,
+Priya Nair
+Senior Manager, Growth Analytics — Zenith Commerce
